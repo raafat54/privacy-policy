@@ -1,4 +1,7 @@
-# privacy-policy
+# Revise Quran App does NOT collect any information from users
+
+# تطبيق مراجعة حفظ القرآن الكريم لا يقوم بتجميع بيانات من المستخدم
+
 
 
 ## What is a Privacy Policy
